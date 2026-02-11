@@ -1,3 +1,3 @@
 # 2400100100016-A-Python
 This is our tool based programing class.
-Everyone is working on first poject
+Everyone is working on first project
